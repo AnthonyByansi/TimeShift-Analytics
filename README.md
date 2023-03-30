@@ -26,3 +26,13 @@ Once you have Jupyter installed, you can start a Jupyter notebook server by runn
 This will open the Jupyter notebook interface in your web browser. From here, you can navigate to the project you want to run and open the notebook file.
 
 Each project contains a `README.md` file that provides detailed instructions on how to use the project, as well as an overview of the problem the project aims to solve and the techniques used to solve it.
+
+## Contributing
+
+Contributions to TimeShift Analytics are welcome! If you would like to contribute to the repository, please follow these steps:
+
+* Fork the repository.
+* Create a new branch for your contribution.
+* Make your changes and commit them to your branch.
+* Create a pull request.
+* When creating a pull request, please include a detailed description of your changes and the problem they solve.
