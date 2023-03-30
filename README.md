@@ -20,3 +20,9 @@ Once you have Python installed, you can install the required Python packages usi
 ## Usage
 
 The repository contains various time series analysis projects that are designed to be run in Jupyter notebooks. To use the projects, you will need to have Jupyter installed on your system. You can install Jupyter by running the following command in your terminal: `pip install jupyter`
+
+Once you have Jupyter installed, you can start a Jupyter notebook server by running the following command in your terminal: `jupyter notebook`
+
+This will open the Jupyter notebook interface in your web browser. From here, you can navigate to the project you want to run and open the notebook file.
+
+Each project contains a `README.md` file that provides detailed instructions on how to use the project, as well as an overview of the problem the project aims to solve and the techniques used to solve it.
