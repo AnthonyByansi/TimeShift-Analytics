@@ -13,6 +13,18 @@ TimeShift Analytics is a repository for time series analysis projects that aims 
 ## Installation
 
 To use TimeShift Analytics, you will need to have Python 3.x installed on your system. You can install Python from the official Python website at https://www.python.org/downloads/.
+Once you have installed Python, you will need to install the following packages using pip:
+
+* Pandas
+* Numpy
+* Matplotlib
+* Scipy
+* Sklearn
+You can install these packages by running the following command:
+```python
+pip install pandas numpy matplotlib scipy sklearn
+```
+
 
 Once you have Python installed, you can install the required Python packages using pip. Run the following command in your terminal to install the required packages: `pip install -r requirements.txt
 `
