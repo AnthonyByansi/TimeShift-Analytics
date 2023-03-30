@@ -50,5 +50,5 @@ Contributions to TimeShift Analytics are welcome! If you would like to contribut
 * Create a pull request.
 * When creating a pull request, please include a detailed description of your changes and the problem they solve.
 
-License
+## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/OSCA-Kampala-Chapter/TimeShift-Analytics/blob/main/LICENSE) file for details.
