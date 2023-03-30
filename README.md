@@ -16,3 +16,7 @@ To use TimeShift Analytics, you will need to have Python 3.x installed on your s
 
 Once you have Python installed, you can install the required Python packages using pip. Run the following command in your terminal to install the required packages: `pip install -r requirements.txt
 `
+
+## Usage
+
+The repository contains various time series analysis projects that are designed to be run in Jupyter notebooks. To use the projects, you will need to have Jupyter installed on your system. You can install Jupyter by running the following command in your terminal: `pip install jupyter`
