@@ -19,7 +19,7 @@ Once you have installed Python, you will need to install the following packages 
 * Numpy
 * Matplotlib
 * Scipy
-* Sklearn
+* Sklearn.
 You can install these packages by running the following command:
 ```python
 pip install pandas numpy matplotlib scipy sklearn
